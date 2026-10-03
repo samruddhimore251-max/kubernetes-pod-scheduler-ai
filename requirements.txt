@@ -1,0 +1,6 @@
+numpy>=1.26
+matplotlib>=3.8
+kubernetes==36.0.3
+pandas==2.3.3
+scikit-learn==1.9.1
+joblib==1.6.0
